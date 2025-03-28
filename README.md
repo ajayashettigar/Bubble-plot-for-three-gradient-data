@@ -38,7 +38,7 @@ bubble_plot.svg (Scalable Vector Format)
 bubble_plot.jpg (High-Resolution 600 DPI)
 
 ## Example Output 📊
-[Include an example image here]
+📂 **[`bubble_plot_swapped.svg`](bubble_plot_swapped.svg)**
 
 ## Future Enhancements 🚀
 ✅ Add interactive visualization using plotly
